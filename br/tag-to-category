@@ -1,0 +1,22 @@
+attribute { name: "Definite" value: "Def" } attribute { name: "Gender" value: "Fem" } attribute { name: "Number" value: "Plur" } attribute { name: "PronType" value: "Art" } attribute { name: "fPOS" value: "DET++DET" } 	
+attribute { name: "Definite" value: "Def" } attribute { name: "Gender" value: "Fem" } attribute { name: "Number" value: "Sing" } attribute { name: "PronType" value: "Art" } attribute { name: "fPOS" value: "DET++DET" } 	
+attribute { name: "Definite" value: "Def" } attribute { name: "Gender" value: "Masc" } attribute { name: "Number" value: "Plur" } attribute { name: "PronType" value: "Art" } attribute { name: "fPOS" value: "DET++DET" } 	
+attribute { name: "Definite" value: "Def" } attribute { name: "Gender" value: "Masc" } attribute { name: "Number" value: "Sing" } attribute { name: "PronType" value: "Art" } attribute { name: "fPOS" value: "DET++DET" } 	
+attribute { name: "NumType" value: "Card" } attribute { name: "fPOS" value: "NUM++NUM" } 	
+attribute { name: "Polarity" value: "Neg" } attribute { name: "fPOS" value: "ADV++ADV" } 	
+attribute { name: "Polarity" value: "Neg" } attribute { name: "fPOS" value: "NOUN++NOUN" } 	
+attribute { name: "Polarity" value: "Neg" } attribute { name: "fPOS" value: "PROPN++PNOUN" } 	
+attribute { name: "fPOS" value: "ADJ++ADJ" } 	
+attribute { name: "fPOS" value: "ADP++ADP" } 	
+attribute { name: "fPOS" value: "ADV++ADV" } 	
+attribute { name: "fPOS" value: "AUX++AUX" } 	
+attribute { name: "fPOS" value: "CCONJ++CONJ" } 	
+attribute { name: "fPOS" value: "DET++DET" } 	
+attribute { name: "fPOS" value: "NOUN++NOUN" } 	
+attribute { name: "fPOS" value: "PART++PRT" } 	
+attribute { name: "fPOS" value: "PRON++PRON" } 	
+attribute { name: "fPOS" value: "PROPN++PNOUN" } 	
+attribute { name: "fPOS" value: "PUNCT++." } 	
+attribute { name: "fPOS" value: "VERB++VERB" } 	
+attribute { name: "fPOS" value: "X++ADPPRON" } 	
+attribute { name: "fPOS" value: "X++X" } 	

@@ -1,0 +1,23 @@
+22
+attribute { name: "fPOS" value: "NOUN++NOUN" }  43428
+attribute { name: "fPOS" value: "ADP++ADP" }  39456
+attribute { name: "fPOS" value: "PUNCT++." }  32067
+attribute { name: "fPOS" value: "PROPN++PNOUN" }  25002
+attribute { name: "fPOS" value: "VERB++VERB" }  22609
+attribute { name: "fPOS" value: "DET++DET" }  19850
+attribute { name: "fPOS" value: "ADJ++ADJ" }  11548
+attribute { name: "fPOS" value: "CCONJ++CONJ" }  8316
+attribute { name: "Definite" value: "Def" } attribute { name: "Gender" value: "Masc" } attribute { name: "Number" value: "Sing" } attribute { name: "PronType" value: "Art" } attribute { name: "fPOS" value: "DET++DET" }  7486
+attribute { name: "NumType" value: "Card" } attribute { name: "fPOS" value: "NUM++NUM" }  6502
+attribute { name: "fPOS" value: "ADV++ADV" }  6317
+attribute { name: "Definite" value: "Def" } attribute { name: "Gender" value: "Fem" } attribute { name: "Number" value: "Sing" } attribute { name: "PronType" value: "Art" } attribute { name: "fPOS" value: "DET++DET" }  5825
+attribute { name: "fPOS" value: "PRON++PRON" }  5650
+attribute { name: "fPOS" value: "AUX++AUX" }  4008
+attribute { name: "Definite" value: "Def" } attribute { name: "Gender" value: "Masc" } attribute { name: "Number" value: "Plur" } attribute { name: "PronType" value: "Art" } attribute { name: "fPOS" value: "DET++DET" }  1570
+attribute { name: "Polarity" value: "Neg" } attribute { name: "fPOS" value: "ADV++ADV" }  1141
+attribute { name: "Definite" value: "Def" } attribute { name: "Gender" value: "Fem" } attribute { name: "Number" value: "Plur" } attribute { name: "PronType" value: "Art" } attribute { name: "fPOS" value: "DET++DET" }  1036
+attribute { name: "fPOS" value: "PART++PRT" }  595
+attribute { name: "fPOS" value: "X++ADPPRON" }  274
+attribute { name: "fPOS" value: "X++X" }  120
+attribute { name: "Polarity" value: "Neg" } attribute { name: "fPOS" value: "PROPN++PNOUN" }  4
+attribute { name: "Polarity" value: "Neg" } attribute { name: "fPOS" value: "NOUN++NOUN" }  2
